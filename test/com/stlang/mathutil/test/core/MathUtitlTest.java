@@ -27,7 +27,7 @@ public class MathUtitlTest {
         Assert.assertEquals(2, MathUtil.getFactorial(2));
         Assert.assertEquals(6, MathUtil.getFactorial(3));
         Assert.assertEquals(24, MathUtil.getFactorial(4));
-        Assert.assertEquals(120, MathUtil.getFactorial(5));
+        Assert.assertEquals(720, MathUtil.getFactorial(5));
        // hàm so sánh 2 giá trị có giống nhau hay không //
        // -> code ngon --> màu xanh
        // --> code ngu --> màu đỏ đèn đường
